@@ -1,0 +1,85 @@
+{
+	"ImportPath": "esme",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/caarlos0/env",
+			"Comment": "v3.0",
+			"Rev": "0cf029d5748c52beb2c9d20c81880cb4bdf8f788"
+		},
+		{
+			"ImportPath": "github.com/fiorix/go-smpp/smpp",
+			"Rev": "2e4ae04cf991891bc3d2e38abe5122a3b66c01e6"
+		},
+		{
+			"ImportPath": "github.com/fiorix/go-smpp/smpp/pdu",
+			"Rev": "2e4ae04cf991891bc3d2e38abe5122a3b66c01e6"
+		},
+		{
+			"ImportPath": "github.com/fiorix/go-smpp/smpp/pdu/pdufield",
+			"Rev": "2e4ae04cf991891bc3d2e38abe5122a3b66c01e6"
+		},
+		{
+			"ImportPath": "github.com/fiorix/go-smpp/smpp/pdu/pdutext",
+			"Rev": "2e4ae04cf991891bc3d2e38abe5122a3b66c01e6"
+		},
+		{
+			"ImportPath": "github.com/sirupsen/logrus",
+			"Comment": "1.0.2-34-g181d419",
+			"Rev": "181d419aa9e2223811b824e8f0b4af96f9ba9302"
+		},
+		{
+			"ImportPath": "github.com/streadway/amqp",
+			"Rev": "2cbfe40c9341ad63ba23e53013b3ddc7989d801c"
+		},
+		{
+			"ImportPath": "go.uber.org/ratelimit",
+			"Rev": "d15fa2e2a63dd52104bc96d8ea7dc47ce8027de8"
+		},
+		{
+			"ImportPath": "go.uber.org/ratelimit/internal/clock",
+			"Rev": "d15fa2e2a63dd52104bc96d8ea7dc47ce8027de8"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/ssh/terminal",
+			"Rev": "d172538b2cfce0c13cee31e647d0367aa8cd2486"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "8f0908ab3b2457e2e15403d3697c9ef5cb4b57a9"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding",
+			"Rev": "2910a502d2bf9e43193af9d68ca516529614eed3"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/charmap",
+			"Rev": "2910a502d2bf9e43193af9d68ca516529614eed3"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/internal",
+			"Rev": "2910a502d2bf9e43193af9d68ca516529614eed3"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/internal/identifier",
+			"Rev": "2910a502d2bf9e43193af9d68ca516529614eed3"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/unicode",
+			"Rev": "2910a502d2bf9e43193af9d68ca516529614eed3"
+		},
+		{
+			"ImportPath": "golang.org/x/text/internal/utf8internal",
+			"Rev": "2910a502d2bf9e43193af9d68ca516529614eed3"
+		},
+		{
+			"ImportPath": "golang.org/x/text/runes",
+			"Rev": "2910a502d2bf9e43193af9d68ca516529614eed3"
+		},
+		{
+			"ImportPath": "golang.org/x/text/transform",
+			"Rev": "2910a502d2bf9e43193af9d68ca516529614eed3"
+		}
+	]
+}
